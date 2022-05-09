@@ -4,15 +4,15 @@ DESAFÍOS A ALCANZAR:
 Se debe crear una aplicación con el proposito de dar mantenimiento a una sola tabla.
 Esa tabla debe contar con las siguientes caracteristicas.
 
-    |   CAMPOS             |  ATRIBUTOS               |
-    | -------------------- |:------------------------:|
-    |   id                 |  INT() NOT NULL          |
-    |   name               |  VARCHAR(100) NOT NULL   |
-    |   lastname           |  VARCHAR(150) NOT NULL   |
-    |   email              |  VARCHAR(200)  NOT NULL  |
-    |   address            |  TEXT                    |
-    |   reference_address  |  TEXT                    |
-    |   phone_number       |  VARCHAR(20)             |
+| CAMPOS | ATRIBUTOS |
+| --- | --- |
+| id | INT() NOT NULL |
+| name | VARCHAR(100) NOT NULL |
+| lastname | VARCHAR(150) NOT NULL |
+| email | VARCHAR(200) NOT NULL |
+| address | TEXT |
+| reference_address | TEXT |
+| phone_number | VARCHAR(20) |
 
 
 ### Nivel 1(creación): 
