@@ -53,6 +53,8 @@ En este desafío debes mostrar tu habilidades en el manejo de tecnologías como:
 - Flask >= 2.0.0
 - SqLite
 
+Nota: Puedes hacer uso de librerías que te ayuden a superar los niveles del challenge como: Flask-RESTful ó Flask-SQLAlchemy
+
 
 DESAFÍOS A ALCANZAR:
 -------------------
