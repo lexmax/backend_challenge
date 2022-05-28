@@ -56,15 +56,4 @@ En este desafío debes mostrar tu habilidades en el manejo de tecnologías como:
 Nota: Puedes hacer uso de librerías que te ayuden a superar los niveles del challenge como: Flask-RESTful ó Flask-SQLAlchemy
 
 
-DESAFÍOS A ALCANZAR:
--------------------
-
-Este es un desafío de next y no de diseño. En este desafío debes mostrar tu habilidades en el manejo de tecnologías como:
-
-- Typescript
-- Next
-- Uso de Ant design 
-
-
-
 Evalución: backend-python nivel 1
